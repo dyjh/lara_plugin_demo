@@ -1,0 +1,9 @@
+{
+  "name": "plugins-demo",
+  "version": "1.0.0",
+  "title": "插件Demo",
+  "description": "插件demo",
+  "author": "芸众",
+  "namespace": "Plugins\\PluginsDemo",
+  "config": "config.tpl"
+}
